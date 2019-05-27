@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: dubbo-auto-configure-consumer-sample
+server:
+  port: 8083
+
+#dubbo:
+#  registry:
+#    address: zookeeper://127.0.0.1:2181
